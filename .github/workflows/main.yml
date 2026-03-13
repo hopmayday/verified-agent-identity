@@ -2,7 +2,7 @@ name: Verify Human Identity
 
 on:
   workflow_dispatch:
-	inputs:
+	inputs:'hopmayday'
   	agent_name:
     	description: 'hopmaday'
     	required: true
